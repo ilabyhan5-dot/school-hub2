@@ -1,0 +1,11 @@
+{
+  "name": "school-hub",
+  "version": "1.0.0",
+  "description": "Школьный хаб для идей мероприятий",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  }
+}

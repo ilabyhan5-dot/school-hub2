@@ -1,0 +1,15 @@
+{
+  "projectId": "school-hub-project",
+  "orgId": "personal",
+  "settings": {
+    "createdAt": 1700000000000,
+    "framework": null,
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "functionRuntime": "nodejs18.x"
+  }
+}
